@@ -1,7 +1,7 @@
 # Ohjelmistosuunnittelu ja testaus
 ![](https://i.ytimg.com/vi/i45hQkrCKEs/hqdefault.jpg)
 
-| Movie | "motherfu**er" count |
+| Movie | Motherfu**er count |
 |:-------|--------------:|
 | Pulp Fiction | 26 |
 | Snakes on a plane | 3 |
